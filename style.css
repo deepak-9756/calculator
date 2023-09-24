@@ -13,6 +13,7 @@ body{
 }
 h1{
     text-align: center;
+    padding-top:5%;
 }
 .calculator{
     display: grid;
